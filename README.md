@@ -1,6 +1,7 @@
 # AI Pipeline Assignment
 
 ## AI Pipeline
+![AI Pipeline](ai_pipeline.png)
 
 ```text
 User Input
