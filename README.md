@@ -9,3 +9,4 @@ Daily AI learning log and assignments.
 - [Day 4: Sentence Embeddings — From Words to Meaning](day4/README.md)
 - [Day 5: Semantic Search — Finding Meaning, Not Just Keywords](day5/README.md)
 - [Day 6: Hands-On ML — Training a Visual Classifier with Teachable Machine](day6/README.md)
+- [Day 7: Sentiment Classification — From Text to Decisions](day7/README.md)
