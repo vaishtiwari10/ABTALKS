@@ -9,7 +9,7 @@ Train a 2-class image classifier using [Google's Teachable Machine](https://teac
 
 **Tool**: [https://teachablemachine.withgoogle.com/train/image](https://teachablemachine.withgoogle.com/train/image)
 
-> **Trained Model**: [https://teachablemachine.withgoogle.com/models/jlG2wpSTJ/](https://teachablemachine.withgoogle.com/models/jlG2wpSTJ/)
+> After training, models can be exported and shared via a unique URL (e.g.,https://teachablemachine.withgoogle.com/models/jlG2wpSTJ/ ). See the export section below.
 
 ---
 
